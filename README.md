@@ -24,11 +24,11 @@ Here is a GIF demonstrating the features of the application:
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Guzillo/java-swing-drawing-app/blob/main/README.md
+    git clone https://github.com/Guzillo/java-swing-drawing-app
     ```
 2. Navigate to the project directory:
     ```sh
-    cd simple-java-draw-app
+    cd java-swing-drawing-app
     ```
 3. Open the project in your IDE.
 

@@ -11,4 +11,33 @@ This Java Swing application allows you to draw on a canvas, choose colors, and d
 - **Open Drawings**: Open previously saved drawings from a file.
 
 Here is a GIF demonstrating the features of the application:
-![Drawing App Demo](github\demo.gif)
+<p align="left">
+    <img src="./github/demo.gif" alt="Drawing Swing Java App Demo">
+</p>
+
+## Getting Started
+
+### Prerequisites
+- Java Development Kit (JDK) 8 or higher
+- An IDE or text editor of your choice
+
+### Installation
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/Guzillo/java-swing-drawing-app/blob/main/README.md
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd simple-java-draw-app
+    ```
+3. Open the project in your IDE.
+
+### Running the Application
+1. Compile the application:
+    ```sh
+    javac -d bin src\application\PaintApplication.java
+    ```
+2. Run the application:
+    ```sh
+    java -cp bin src\application\PaintApplication.java
+    ```
